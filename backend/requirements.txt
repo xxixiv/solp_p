@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+Flask-Limiter
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+requests
+pytest
+psycopg2-binary
+youtube-dl
+PyPDF2
