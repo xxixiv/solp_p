@@ -1,0 +1,16 @@
+# Python / Flask
+backend/venv/
+backend/*.pyc
+backend/__pycache__/
+backend/.env
+backend/app.db
+
+# Node / Vue
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+.judge0-ce/
+docker-compose.override.yml
+
+*.DS_Store

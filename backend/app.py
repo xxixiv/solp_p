@@ -22,7 +22,7 @@ def seed_cards():
             image='/c#.png',
             icon='mdi-language-c#',
             text='Learn now',
-            description='hi im just here shaaaaa'
+            description='hi im just here shaaaaaaa'
         ),
         Card(
             title='C++',
